@@ -10,7 +10,7 @@ ref: https://en.wikipedia.org/wiki/Micromouse
 
 ## requirements
 1. Procedurally generated 16 x 16 maze
-2. Car (RL agents) to play an solve maze
+2. Car (RL agents) to play and solve maze
 
 ## tech ref 
 1. gymnasium: https://gymnasium.farama.org/tutorials/gymnasium_basics/environment_creation/
